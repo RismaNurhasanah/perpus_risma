@@ -42,8 +42,8 @@
 
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="beranda.php?">
-                <div class="sidebar-brand-icon rotate-n-15">
-                    <i class="fas fa-university"></i>
+                <div class="sidebar-brand-icon">
+                    <i class="fas fa-building"></i>
                 </div>
                 <div class="sidebar-brand-text mx-3">SIPNU </div>
             </a>
@@ -93,7 +93,7 @@
 
           <li class="nav-item active">
                 <a class="nav-link" href="beranda.php?page=transaksi">
-                    <i class="fas fa-calculator"></i>
+                    <i class="fas fa-credit-card"></i>
                     <span>Data Tansaksi</span></a>
             </li>
 
